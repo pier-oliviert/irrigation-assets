@@ -1,6 +1,14 @@
-valves: [14, 15, 18, 23, 24, 4, 17, 22]
-
+port: 7777
 database:
-  name: "irrigation"
-  user: "irrigation"
-  password: "123423&Hsaj@!as"
+  name: irrigation
+  password: 123423&Hsaj@!as
+  user: irrigation
+valves:
+- 14
+- 15
+- 18
+- 23
+- 24
+- 4
+- 17
+- 22
